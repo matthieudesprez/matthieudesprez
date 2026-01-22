@@ -26,10 +26,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/matthieudesprez/matthieudesprez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthieudesprez&show_icons=false&hide_border=true&theme=synthwave"/>
+  <img align="center" src="profile/stats.svg"/>
 </a>
 <a href="https://github.com/matthieudesprez/matthieudesprez">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieudesprez&layout=compact&hide_border=true&theme=synthwave"/>
+  <img align="center" src="profile/top-langs.svg"/>
 </a>
 
 <!-- ## 🗂️ Highlight Projects  -->
